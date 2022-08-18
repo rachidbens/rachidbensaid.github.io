@@ -48,9 +48,6 @@ style="float:left; margin-right:10px">
 <br>
 Topic: Machine Learning/Deep Learning-based methods for intrusion detection in networking.
 <br>
-
-<br>
-<br>
 <b> 09/2012 - 07/2014:  M.S. degree in computer engineering from the National High School for Electricity and Mechanics, Hassan II University, Casablanca, Morocco </b>
 
 <br>
@@ -58,21 +55,12 @@ Topic: Machine Learning/Deep Learning-based methods for intrusion detection in n
 <h3> Selected Publications: </h3>
 <ul>
   <li> <b> Journals </b> </li>
-      <ol>
-        <li> <b>  </li>
-  
-      </ol>
+      
   <br>
   <li> <b> Conferences </b> </li>
-    <ol>
-      <li>  </li>
-      
-    </ol>
 <br>
   <li> <b> Book Chapter </b> </li>
-    <ol>
-      <li>  </u> </li>
-    </ol>
+   
 </ul>
 <h3> Professional Services: </h3>
 
