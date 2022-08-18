@@ -28,7 +28,7 @@ style="float:left; margin-right:10px">
   
 
   <br>
-  Email: bensaid@{ankara.edu.tr}; benrachidsaid@gmail.com
+  Email: bensaid@ankara.edu.tr; benrachidsaid@gmail.com
   <br>
 <br>
 
