@@ -24,7 +24,7 @@ style="float:left; margin-right:10px">
   <div style="width:900px;overflow:auto">
     <p style="font-family: sans-serif; font-size: 1.2em;"> Welcome to my personal website!
   Rachid Ben Said received the B.S. degree in computer engineering from the Faculty of Science and Technology, Moulay Ismail University, Errachidia, Morocco, in 2012, and the M.S. degree in computer engineering from the National High School for Electricity and Mechanics, Hassan II University, Casablanca, Morocco, in 2014. He is currently pursuing the Ph.D. degree in computer engineering with Ankara University, Ankara, Turkey.
-  My research interests include Application of deep reinforcement learning, deep learning, machine learning, quantum machine learning in the  software defined networking,Cybersecurity and the Internet of Things.
+  My research interests include Application of deep reinforcement learning, deep learning, machine learning, quantum machine learning in the  software defined networking,NLP and the Internet of Things.
   
 
   <br>
