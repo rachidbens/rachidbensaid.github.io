@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rachidbens/rachidbensaid.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html lang='en'>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <title> RACHID BEN SAID </title>
+</head>
 
-### Markdown
+<body>
+<div class="relative">
+<h1 style="color:#1297B8";> RACHID BEN SAID </h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</div>
+<p>
+<div class="relative">
 
-```markdown
-Syntax highlighted code block
+<img src="img_profile.png" alt="Rachid" width="270" height="290" border=2
+style="float:left; margin-right:10px">
+</div>
+<div class="relative">
+  <div style="width:900px;overflow:auto">
+    <p style="font-family: sans-serif; font-size: 1.2em;"> Welcome to my personal website!
+  Rachid Ben Said received the B.S. degree in computer engineering from the Faculty of Science and Technology, Moulay Ismail University, Errachidia, Morocco, in 2012, and the M.S. degree in computer engineering from the National High School for Electricity and Mechanics, Hassan II University, Casablanca, Morocco, in 2014. He is currently pursuing the Ph.D. degree in computer engineering with Ankara University, Ankara, Turkey.
+  My research interests include Application of deep reinforcement learning, deep learning, machine learning, quantum machine learning in the  software defined networking,Cybersecurity and the Internet of Things.
+  
 
-# Header 1
-## Header 2
-### Header 3
+  <br>
+  Email: bensaid@{ankara.edu.tr}; benrachidsaid@gmail.com
+  <br>
+<br>
 
-- Bulleted
-- List
+  Websites: <a href="https://www.researchgate.net/profile/Rachid-Ben-Said" target="_blank">  <b> Research Gate </b>  </a> ,
+  <a href="https://scholar.google.com/citations?user=WY3jwA0AAAAJ&hl=en&oi=ao" target="_blank"> <b> Google Scholar </b> </a>,
+  <a href="https://www.linkedin.com/in/rachid-ben-said-9a133069/" target="_blank">  <b> Linkedin </b>  </a>
 
-1. Numbered
-2. List
+<div class="relative">
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<br>
+<br>
+<br>
+<h3> Education: </h3>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<b> 09/2016 - PRESENT: PhD Student in Computer Engineering, Ankara University , Turkiye </b>
+<br>
+Topic: Machine Learning/Deep Learning-based methods for intrusion detection in networking.
+<br>
 
-### Jekyll Themes
+<br>
+<br>
+<b> 09/2012 - 07/2014:  M.S. degree in computer engineering from the National High School for Electricity and Mechanics, Hassan II University, Casablanca, Morocco </b>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachidbens/rachidbensaid.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
+<div style="width:1200px;overflow:auto; line-height: 1.5;">
+<h3> Selected Publications: </h3>
+<ul>
+  <li> <b> Journals </b> </li>
+      <ol>
+        <li> <b>  </li>
+  
+      </ol>
+  <br>
+  <li> <b> Conferences </b> </li>
+    <ol>
+      <li>  </li>
+      
+    </ol>
+<br>
+  <li> <b> Book Chapter </b> </li>
+    <ol>
+      <li>  </u> </li>
+    </ol>
+</ul>
+<h3> Professional Services: </h3>
 
-### Support or Contact
+<ul>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<li> <b> Technical reviewer </b> </li>
+<dl>
+    <d> -Not yet </d> <br>
+   
+</dl>
+</ul>
+</div>
+<a href="https://info.flagcounter.com/t8xE"><img src="https://s01.flagcounter.com/count2/t8xE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</div>
+
+
+</body>
+</html>
