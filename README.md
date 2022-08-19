@@ -41,9 +41,9 @@ style="float:left; margin-right:10px">
 <br>
 <h3> Education: </h3>
 
-<b> 09/2016 - PRESENT: PhD Student in Computer Engineering, Ankara University , Turkiye </b>
+<b> 09/2016 - PRESENT: PhD Student in Computer Engineering, Ankara University , Turkey </b>
 <br>
-Topic: Machine Learning/Deep Learning-based methods for intrusion detection in networking.
+Topic: Deep Learning-based methods for intrusion detection in networking.
 <br>
 <b> 09/2012 - 07/2014:  M.S. degree in computer engineering from the National High School for Electricity and Mechanics, Hassan II University, Casablanca, Morocco </b>
 
