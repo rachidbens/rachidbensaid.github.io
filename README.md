@@ -38,9 +38,6 @@ style="float:left; margin-right:10px">
 
 <div class="relative">
 
-
-<br>
-<br>
 <br>
 <h3> Education: </h3>
 
